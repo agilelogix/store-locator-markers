@@ -1,0 +1,2 @@
+# Store Locator Markers
+Images of the store locator wordpress markers, the store locator can be download from [WordPress.org](https://wordpress.org/plugins/agile-store-locator/), store locator wordpress also have a pro version that can be seen from the [https://agilestorelocator.com/](https://agilestorelocator.com/demos/).
